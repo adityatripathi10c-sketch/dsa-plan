@@ -15,6 +15,7 @@ A dsa journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -44,6 +45,7 @@ A dsa journey
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0344-reverse-string/) | Easy |
 ## String
@@ -69,6 +71,7 @@ A dsa journey
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
