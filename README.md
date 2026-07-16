@@ -10,6 +10,7 @@ A dsa journey
 | [0009-palindrome-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 | [1952-three-divisors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -21,6 +22,7 @@ A dsa journey
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0283-move-zeroes/) | Easy |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -67,10 +69,12 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -82,6 +86,7 @@ A dsa journey
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
@@ -127,4 +132,5 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
