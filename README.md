@@ -20,6 +20,7 @@ A dsa journey
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0283-move-zeroes/) | Easy |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -53,6 +54,7 @@ A dsa journey
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
