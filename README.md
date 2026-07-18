@@ -21,6 +21,7 @@ A dsa journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
@@ -42,6 +43,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
