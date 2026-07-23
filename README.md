@@ -34,6 +34,7 @@ A dsa journey
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0283-move-zeroes/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -155,6 +156,7 @@ A dsa journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
