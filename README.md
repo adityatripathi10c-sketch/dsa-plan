@@ -38,6 +38,7 @@ A dsa journey
 | [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -161,6 +162,7 @@ A dsa journey
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
