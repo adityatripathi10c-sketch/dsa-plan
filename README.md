@@ -91,6 +91,7 @@ A dsa journey
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0796-rotate-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
@@ -193,4 +194,8 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
