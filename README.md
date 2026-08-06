@@ -89,6 +89,7 @@ A dsa journey
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0796-rotate-string/) | Easy |
@@ -106,6 +107,7 @@ A dsa journey
 | [0128-longest-consecutive-sequence](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
@@ -119,6 +121,7 @@ A dsa journey
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
