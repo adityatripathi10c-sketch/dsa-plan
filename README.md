@@ -65,6 +65,7 @@ A dsa journey
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -210,4 +211,8 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
