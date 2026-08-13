@@ -8,6 +8,7 @@ A dsa journey
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
@@ -85,6 +86,7 @@ A dsa journey
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -104,6 +106,7 @@ A dsa journey
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
