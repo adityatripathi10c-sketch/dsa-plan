@@ -67,6 +67,7 @@ A dsa journey
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ A dsa journey
 | [0142-linked-list-cycle-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -150,6 +152,7 @@ A dsa journey
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -218,6 +221,7 @@ A dsa journey
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
