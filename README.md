@@ -222,6 +222,7 @@ A dsa journey
 | [0142-linked-list-cycle-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
