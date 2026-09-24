@@ -248,4 +248,16 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
