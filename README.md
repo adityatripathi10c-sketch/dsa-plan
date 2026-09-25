@@ -105,6 +105,7 @@ A dsa journey
 | [0796-rotate-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0796-rotate-string/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
@@ -125,6 +126,7 @@ A dsa journey
 | [0242-valid-anagram](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ A dsa journey
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@ A dsa journey
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Queue
@@ -256,8 +260,13 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
