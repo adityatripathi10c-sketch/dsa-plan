@@ -46,6 +46,7 @@ A dsa journey
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
@@ -107,6 +108,7 @@ A dsa journey
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ A dsa journey
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
