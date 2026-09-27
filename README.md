@@ -107,6 +107,7 @@ A dsa journey
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -169,6 +170,7 @@ A dsa journey
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Queue
@@ -231,6 +233,7 @@ A dsa journey
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
