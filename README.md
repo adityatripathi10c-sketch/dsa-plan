@@ -99,6 +99,7 @@ A dsa journey
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
@@ -169,6 +170,7 @@ A dsa journey
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -238,6 +240,7 @@ A dsa journey
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
