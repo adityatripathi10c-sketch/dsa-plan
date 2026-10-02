@@ -62,6 +62,7 @@ A dsa journey
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
@@ -100,6 +101,7 @@ A dsa journey
 | [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
@@ -241,6 +243,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -284,5 +287,6 @@ A dsa journey
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
