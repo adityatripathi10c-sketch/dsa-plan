@@ -10,6 +10,7 @@ A dsa journey
 | [0009-palindrome-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
@@ -70,6 +71,7 @@ A dsa journey
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
