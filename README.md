@@ -122,6 +122,7 @@ A dsa journey
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -191,6 +192,7 @@ A dsa journey
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Queue
@@ -244,6 +246,7 @@ A dsa journey
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -264,6 +267,7 @@ A dsa journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Linked List
