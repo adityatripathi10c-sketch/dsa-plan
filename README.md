@@ -51,6 +51,7 @@ A dsa journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1952-three-divisors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
