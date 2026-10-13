@@ -52,6 +52,7 @@ A dsa journey
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ A dsa journey
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ A dsa journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
