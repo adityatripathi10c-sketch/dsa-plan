@@ -18,6 +18,7 @@ A dsa journey
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@ A dsa journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
