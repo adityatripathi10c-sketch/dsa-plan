@@ -55,6 +55,7 @@ A dsa journey
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ A dsa journey
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ A dsa journey
 | [0451-sort-characters-by-frequency](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
