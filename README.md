@@ -15,6 +15,7 @@ A dsa journey
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -45,6 +46,7 @@ A dsa journey
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -76,6 +78,7 @@ A dsa journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -89,6 +92,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +167,7 @@ A dsa journey
 | [0053-maximum-subarray](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +251,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +317,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +327,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,4 +343,16 @@ A dsa journey
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
