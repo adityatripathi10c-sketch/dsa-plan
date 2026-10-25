@@ -48,6 +48,7 @@ A dsa journey
 | [0875-koko-eating-bananas](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -264,6 +265,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -272,6 +274,7 @@ A dsa journey
 | [0054-spiral-matrix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -338,6 +341,7 @@ A dsa journey
 | [0102-binary-tree-level-order-traversal](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,4 +378,5 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
