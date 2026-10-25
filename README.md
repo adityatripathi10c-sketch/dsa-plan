@@ -6,6 +6,7 @@ A dsa journey
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0013-roman-to-integer/) | Easy |
@@ -92,6 +93,7 @@ A dsa journey
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
@@ -310,6 +312,7 @@ A dsa journey
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0138-copy-list-with-random-pointer/) | Medium |
