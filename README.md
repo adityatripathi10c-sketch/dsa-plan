@@ -67,6 +67,7 @@ A dsa journey
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Number Theory
@@ -91,6 +92,7 @@ A dsa journey
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ A dsa journey
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +284,7 @@ A dsa journey
 | [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
