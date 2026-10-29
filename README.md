@@ -38,6 +38,7 @@ A dsa journey
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0162-find-peak-element/) | Medium |
@@ -157,6 +158,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0268-missing-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -365,6 +367,7 @@ A dsa journey
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
