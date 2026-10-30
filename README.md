@@ -31,6 +31,7 @@ A dsa journey
 | [0031-next-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0040-combination-sum-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0054-spiral-matrix/) | Medium |
@@ -368,6 +369,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
+| [0040-combination-sum-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
