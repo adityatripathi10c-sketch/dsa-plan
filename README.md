@@ -41,6 +41,7 @@ A dsa journey
 | [0073-set-matrix-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -138,6 +139,7 @@ A dsa journey
 | [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0079-word-search](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0205-isomorphic-strings/) | Easy |
@@ -290,6 +292,7 @@ A dsa journey
 | [0048-rotate-image](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0079-word-search/) | Medium |
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -375,6 +378,7 @@ A dsa journey
 | [0040-combination-sum-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0090-subsets-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
@@ -402,6 +406,7 @@ A dsa journey
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0079-word-search/) | Medium |
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
