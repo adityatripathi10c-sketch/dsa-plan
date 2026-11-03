@@ -23,6 +23,7 @@ A dsa journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ A dsa journey
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
