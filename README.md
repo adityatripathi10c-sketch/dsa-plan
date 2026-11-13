@@ -236,6 +236,7 @@ A dsa journey
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0856-score-of-parentheses/) | Medium |
@@ -251,6 +252,7 @@ A dsa journey
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -424,4 +426,8 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
