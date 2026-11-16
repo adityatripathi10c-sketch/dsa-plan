@@ -56,6 +56,7 @@ A dsa journey
 | [0503-next-greater-element-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -101,6 +102,7 @@ A dsa journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -242,6 +244,7 @@ A dsa journey
 | [0503-next-greater-element-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0856-score-of-parentheses/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -436,4 +439,5 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
