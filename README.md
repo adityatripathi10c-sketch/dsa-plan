@@ -55,6 +55,7 @@ A dsa journey
 | [0463-island-perimeter](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0463-island-perimeter/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0735-asteroid-collision](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0912-sort-an-array/) | Medium |
@@ -243,6 +244,7 @@ A dsa journey
 | [0234-palindrome-linked-list](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0735-asteroid-collision](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -263,6 +265,7 @@ A dsa journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0054-spiral-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0735-asteroid-collision/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Merge Sort
