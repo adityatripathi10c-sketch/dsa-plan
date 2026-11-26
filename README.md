@@ -22,6 +22,7 @@ A dsa journey
 | [1952-three-divisors](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3360-stone-removal-game/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -268,6 +269,7 @@ A dsa journey
 | [0735-asteroid-collision](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/0735-asteroid-collision/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3360-stone-removal-game](https://github.com/adityatripathi10c-sketch/dsa-plan/tree/main/3360-stone-removal-game/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
